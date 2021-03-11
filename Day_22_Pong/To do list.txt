@@ -1,0 +1,11 @@
+Front-End
+1. Create the screen
+2. Create and move the paddle
+3. Create another paddle
+4. Create the ball and move in the screen
+
+Back-End
+5. Detect collision with wall and bounce
+6. Detect collision with paddle
+7. Detect when the paddle misses the ball
+8. Keep score
